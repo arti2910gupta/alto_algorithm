@@ -6,6 +6,11 @@ test_alto: sample test script
 foursquare.mat: foursquare dataset used in the algorithm
 alto_sub: sub functions used in the algorithm
 
+Procedure to run
+=================
+Run test_alto.m and get the result. All the functions are used by this file.
+
+
 Result
 ==========
 In result, least square error as a forecasting error.
